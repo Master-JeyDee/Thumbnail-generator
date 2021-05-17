@@ -20,7 +20,6 @@ def start(client, message):
             [
                 [
                     InlineKeyboardButton("Join 👨‍🦯" ,url="https://t.me/WinInSilenceLetthemthinkURLosing") ]
-         )
 
 
 @app.on_message(filters.regex("^https?:\/\/?(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/).{11}"))
