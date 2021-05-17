@@ -20,8 +20,6 @@ def start(client, message):
             [
                 [
                     InlineKeyboardButton("Join 👨‍🦯" ,url="https://t.me/WinInSilenceLetthemthinkURLosing") ],
-                 [InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]
-           ]
         ) )
 
 
